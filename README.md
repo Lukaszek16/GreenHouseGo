@@ -34,7 +34,7 @@ La lavanda cresce spontaneamente in aree soleggiate e asciutte, spesso in terren
 ---
 
 ### Immagine della Lavanda
-![Lavanda](https://upload.wikimedia.org/wikipedia/commons/3/3b/Lavandula_angustifolia_%28flowering%29.jpg)
+![Lavanda]([https://upload.wikimedia.org/wikipedia/commons/3/3b/Lavandula_angustifolia_%28flowering%29.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Lavandula_angustifolia090718.jpg/330px-Lavandula_angustifolia090718.jpg))
 
 ## Conclusione
 La lavanda non è solo una pianta dal fascino estetico, ma anche un elemento versatile che arricchisce il nostro quotidiano grazie ai suoi molteplici utilizzi.
